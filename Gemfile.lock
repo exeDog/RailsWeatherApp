@@ -75,7 +75,6 @@ GEM
     coffee-script-source (1.12.2)
     concurrent-ruby (1.1.5)
     crass (1.0.4)
-    duktape (2.3.0.0)
     erubi (1.8.0)
     execjs (2.7.0)
     ffi (1.11.1-x64-mingw32)
@@ -203,7 +202,6 @@ DEPENDENCIES
   byebug
   capybara (>= 3.2.5)
   coffee-rails (~> 4.2)
-  duktape
   jbuilder (~> 2.5)
   jquery-rails
   mysql2 (>= 0.4.4, < 0.6.0)
